@@ -1,5 +1,5 @@
 # HackAtBrown
-Tensorflow 
+Tensorflow. 
 ## Inspiration
 Got inspired after attending the Tensorflow workshop by Google at Brown University.
 ## What it does
